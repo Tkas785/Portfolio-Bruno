@@ -1,2 +1,2 @@
 # Portfolio-Bruno
-Portfólio pessoal. Primeiro "projeto" criado.
+Portfólio pessoal. Primeiro projeto criado.
